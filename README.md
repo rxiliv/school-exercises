@@ -1,7 +1,15 @@
-### Gioia Chen 5BT-i
+05/10/2026 - 09/10/2026
+### Gioia Chen - 5BT-i
 Istituto di Istruzione Superiore Archimede - Treviglio
 
-# School Exercises
-Collection of the exercises completed for school purposes (School Year 2026/27)
+# Press Kit - Esercitazione Trasversale Informatica / TPSI - HTML
 
-## Contents
+## Esercizio
+**Traccia scelta:** A (Press Kit)
+
+## Elenco Pagine
+- Homepage
+- Presentazione
+- Panoramica dei Personaggi
+- Preordine
+- Domande Frequenti (FAQ)
